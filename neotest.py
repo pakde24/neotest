@@ -32,20 +32,21 @@ except ImportError:
 # ============================================================
 # KONSTANTA & KONFIGURASI
 # ============================================================
-CURRENT_VERSION   = "1.0.0"
+CURRENT_VERSION   = "1.0.1"
 
 VERSION_CHECK_URL = (
-    "https://github.com/pakde24/neotest/blob/main/version.json"
+    "https://raw.githubusercontent.com/"
+    "pakde24/neotest/refs/heads/main/version.json"
 )
 
-DEFAULT_URL   = "https://youtube.com/@ayobelajarterus"
+DEFAULT_URL   = "https://youtube.com/@ayobelajarterus/videos"
 APP_TITLE     = "NeoTest"
 
 # Runtime config (diisi dari online)
 RUNTIME_URL   = DEFAULT_URL
 RUNTIME_TITLE = APP_TITLE
 
-EXIT_COMBO = {"h", "q"}
+EXIT_COMBO = {"p", "k", "r"}
 EDGE_PATHS = [
     r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
     r"C:\Program Files\Microsoft\Edge\Application\msedge.exe",
