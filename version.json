@@ -1,7 +1,7 @@
 {
     "version": "1.1.1",
     "app_title": "NeoTest",
-    "url": "https://youtube.com/@ayobelajarterus",
+    "url": "https://youtube.com/@ayobelajarterus/videos",
     "changelog": "Penambahan fitur auto-update untuk EXE",
     "force_update": false,
     "size_mb": "12.5",
