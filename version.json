@@ -1,0 +1,12 @@
+{
+    "version": "1.1.0",
+    "app_title": "NeoTest",
+    "url": "https://youtube.com/@ayobelajarterus",
+    "changelog": "Penambahan fitur auto-update untuk EXE",
+    "force_update": false,
+    "size_mb": "12.5",
+    "md5": "abc123def456...",
+    "update_exe_url": "https://github.com/pakde24/neotest/releases/download/v1.0.0/neotest.exe",
+    "update_url": "https://github.com/pakde24/neotest/blob/main/neotest.py",
+    "updater_url": "https://github.com/pakde24/neotest/releases/download/v1.0.0/updater.exe"
+}
