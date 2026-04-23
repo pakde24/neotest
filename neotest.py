@@ -35,8 +35,7 @@ except ImportError:
 CURRENT_VERSION   = "1.0.0"
 
 VERSION_CHECK_URL = (
-    "https://raw.githubusercontent.com/"
-    "USERNAME/REPO/main/version.json"
+    "https://github.com/pakde24/neotest/blob/main/version.json"
 )
 
 DEFAULT_URL   = "https://youtube.com/@ayobelajarterus"
